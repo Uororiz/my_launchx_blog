@@ -7,4 +7,11 @@ Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartir�
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectativas para este proyecto son:
+
+- Robustecer mi conocimiento con Git y Github.
+- Aplicar y fortalecer mis conocimientos de front-end.
+- Aprender a diseñar backend con NodeJS.
+- Compartir el conocimiento adquirido.
+
 🚀
